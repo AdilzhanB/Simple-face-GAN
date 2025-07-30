@@ -1,0 +1,10 @@
+{
+  "inception_score": 2.49671801428169,
+  "inception_std": 0.10671864351220381,
+  "fid_score": Infinity,
+  "diversity_score": 67.7850341796875,
+  "attribute_consistency": 0.75,
+  "num_test_samples": 1000,
+  "test_date": "2025-07-24 09:22:04",
+  "test_user": "AdilzhanB"
+}

@@ -1,0 +1,202 @@
+{
+  "5_o_Clock_Shadow": {
+    "positive": 22516,
+    "total": 202599,
+    "percentage": 11.113579040370388
+  },
+  "Arched_Eyebrows": {
+    "positive": 54090,
+    "total": 202599,
+    "percentage": 26.698058726844653
+  },
+  "Attractive": {
+    "positive": 103833,
+    "total": 202599,
+    "percentage": 51.25049975567501
+  },
+  "Bags_Under_Eyes": {
+    "positive": 41446,
+    "total": 202599,
+    "percentage": 20.457159215988234
+  },
+  "Bald": {
+    "positive": 4547,
+    "total": 202599,
+    "percentage": 2.244334868385333
+  },
+  "Bangs": {
+    "positive": 30709,
+    "total": 202599,
+    "percentage": 15.157527924619568
+  },
+  "Big_Lips": {
+    "positive": 48785,
+    "total": 202599,
+    "percentage": 24.079585782753124
+  },
+  "Big_Nose": {
+    "positive": 47516,
+    "total": 202599,
+    "percentage": 23.453225336748947
+  },
+  "Black_Hair": {
+    "positive": 48472,
+    "total": 202599,
+    "percentage": 23.925093411122464
+  },
+  "Blond_Hair": {
+    "positive": 29983,
+    "total": 202599,
+    "percentage": 14.799184596172735
+  },
+  "Blurry": {
+    "positive": 10312,
+    "total": 202599,
+    "percentage": 5.089857304330229
+  },
+  "Brown_Hair": {
+    "positive": 41572,
+    "total": 202599,
+    "percentage": 20.519351033321982
+  },
+  "Bushy_Eyebrows": {
+    "positive": 28803,
+    "total": 202599,
+    "percentage": 14.216753290983666
+  },
+  "Chubby": {
+    "positive": 11663,
+    "total": 202599,
+    "percentage": 5.756691790186526
+  },
+  "Double_Chin": {
+    "positive": 9459,
+    "total": 202599,
+    "percentage": 4.668828572697793
+  },
+  "Eyeglasses": {
+    "positive": 13193,
+    "total": 202599,
+    "percentage": 6.511878143524894
+  },
+  "Goatee": {
+    "positive": 12716,
+    "total": 202599,
+    "percentage": 6.276437692189991
+  },
+  "Gray_Hair": {
+    "positive": 8499,
+    "total": 202599,
+    "percentage": 4.1949861549168554
+  },
+  "Heavy_Makeup": {
+    "positive": 78390,
+    "total": 202599,
+    "percentage": 38.692194926924614
+  },
+  "High_Cheekbones": {
+    "positive": 92189,
+    "total": 202599,
+    "percentage": 45.50318609667372
+  },
+  "Male": {
+    "positive": 84434,
+    "total": 202599,
+    "percentage": 41.6754278155371
+  },
+  "Mouth_Slightly_Open": {
+    "positive": 97942,
+    "total": 202599,
+    "percentage": 48.34278550239636
+  },
+  "Mustache": {
+    "positive": 8417,
+    "total": 202599,
+    "percentage": 4.154512115064734
+  },
+  "Narrow_Eyes": {
+    "positive": 23329,
+    "total": 202599,
+    "percentage": 11.514864337928618
+  },
+  "No_Beard": {
+    "positive": 169158,
+    "total": 202599,
+    "percentage": 83.49399552811218
+  },
+  "Oval_Face": {
+    "positive": 57567,
+    "total": 202599,
+    "percentage": 28.414256733744985
+  },
+  "Pale_Skin": {
+    "positive": 8701,
+    "total": 202599,
+    "percentage": 4.294690496991594
+  },
+  "Pointy_Nose": {
+    "positive": 56210,
+    "total": 202599,
+    "percentage": 27.744460732777554
+  },
+  "Receding_Hairline": {
+    "positive": 16163,
+    "total": 202599,
+    "percentage": 7.977828123534667
+  },
+  "Rosy_Cheeks": {
+    "positive": 13315,
+    "total": 202599,
+    "percentage": 6.572095617451221
+  },
+  "Sideburns": {
+    "positive": 11449,
+    "total": 202599,
+    "percentage": 5.6510644178895255
+  },
+  "Smiling": {
+    "positive": 97669,
+    "total": 202599,
+    "percentage": 48.20803656483991
+  },
+  "Straight_Hair": {
+    "positive": 42222,
+    "total": 202599,
+    "percentage": 20.840181837027824
+  },
+  "Wavy_Hair": {
+    "positive": 64744,
+    "total": 202599,
+    "percentage": 31.95672239250934
+  },
+  "Wearing_Earrings": {
+    "positive": 38276,
+    "total": 202599,
+    "percentage": 18.89249206560743
+  },
+  "Wearing_Hat": {
+    "positive": 9818,
+    "total": 202599,
+    "percentage": 4.846025893513788
+  },
+  "Wearing_Lipstick": {
+    "positive": 95715,
+    "total": 202599,
+    "percentage": 47.24356981031496
+  },
+  "Wearing_Necklace": {
+    "positive": 24913,
+    "total": 202599,
+    "percentage": 12.296704327267163
+  },
+  "Wearing_Necktie": {
+    "positive": 14732,
+    "total": 202599,
+    "percentage": 7.271506769529958
+  },
+  "Young": {
+    "positive": 156734,
+    "total": 202599,
+    "percentage": 77.3616849046639
+  }
+}
